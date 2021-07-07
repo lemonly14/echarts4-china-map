@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "adcode": 440001,
+        "name": "深圳市",
+        "pc": [136.280637, 23.125178],
+        "childrenNum": 22,
+        "level": "province",
+        "subFeatureIndex": 18,
+        "acroutes": [100000],
+        "parent": {
+          "adcode": 100000
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [114.080637, 21.525178],
+              [114.080637, 22.525178],
+              [116.080637, 22.525178],
+              [116.080637, 21.525178]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adcode": 330200,
+        "name": "厦门市",
+        "pc": [121.306239, 28.075302],
+        "level": "province",
+        "subFeatureIndex": 18,
+        "acroutes": [100000],
+        "parent": {
+          "adcode": 100000
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [117.506239, 22.475302],
+              [117.506239, 23.475302],
+              [119.506239, 23.475302],
+              [119.506239, 22.475302]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adcode": 330200,
+        "name": "宁波市",
+        "pc": [123.000923, 30.287459],
+        "level": "province",
+        "subFeatureIndex": 18,
+        "acroutes": [100000],
+        "parent": {
+          "adcode": 100000
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [122.500923, 29.375807],
+              [122.500923, 30.375807],
+              [124.500923, 30.375807],
+              [124.500923, 29.375807]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adcode": 370200,
+        "name": "青岛市",
+        "pc": [123.000923, 36.675807],
+        "level": "province",
+        "subFeatureIndex": 18,
+        "acroutes": [100000],
+        "parent": {
+          "adcode": 100000
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [121.000923, 35.375807],
+              [121.000923, 36.375807],
+              [123.000923, 36.375807],
+              [123.000923, 35.375807]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adcode": 330200,
+        "name": "大连市",
+        "pc": [123.429096, 41.796767],
+        "level": "province",
+        "subFeatureIndex": 18,
+        "acroutes": [100000],
+        "parent": {
+          "adcode": 100000
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [123.207523, 38.366915],
+              [123.207523, 39.366915],
+              [125.207523, 39.366915],
+              [125.207523, 38.366915]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
